@@ -175,7 +175,3 @@ Project Link: [https://github.com/hx00r/url-shortener](https://github.com/hx00r/
 
 [node-sqlite]: https://img.shields.io/badge/node--sqlite3-green?style=for-the-badge&amp;amp;logo=nextdotjs&amp;amp;logoColor=white
 [node-sqlite3-url]: https://www.npmjs.com/package/sqlite3
-
-
-
-[node-sqlite-url]: 
